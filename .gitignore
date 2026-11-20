@@ -1,0 +1,16 @@
+# Godot 4+ ignore
+.godot/
+.import/
+export.cfg
+export_credentials.cfg
+
+# Builds & temp files
+builds/
+*.apk
+*.idsig
+*.exe
+*.x86_64
+*.avi
+*.log
+*.tmp
+.DS_Store
