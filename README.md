@@ -6,27 +6,22 @@
 
 **A playable 3D remake of the zombie arcade mini-game from Jason's house in GTA 6 — built from a gameplay video using Godot 4.**
 
-[![Download Linux](https://img.shields.io/badge/Download-Linux_x86__64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Twarga/Street-Trash-III-Dezombifie-Clone-/releases/latest)
-[![Download Windows](https://img.shields.io/badge/Download-Windows_.exe-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Twarga/Street-Trash-III-Dezombifie-Clone-/releases/latest)
-[![Download Android](https://img.shields.io/badge/Download-Android_.apk-3DDC84?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Twarga/Street-Trash-III-Dezombifie-Clone-/releases/latest)
+[![Download Linux](https://img.shields.io/badge/Download-Linux_x86__64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Twarga/Street-Trash-III-Dezombifie-Clone-/releases/download/v1.0.0/StreetTrashDezombifier.x86_64)
+[![Download Windows](https://img.shields.io/badge/Download-Windows_.exe-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Twarga/Street-Trash-III-Dezombifie-Clone-/releases/download/v1.0.0/StreetTrashDezombifier.exe)
+[![Download Android](https://img.shields.io/badge/Download-Android_.apk-3DDC84?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Twarga/Street-Trash-III-Dezombifie-Clone-/releases/download/v1.0.0/StreetTrashDezombifier.apk)
 [![Godot 4.6+](https://img.shields.io/badge/Engine-Godot_4.6+-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
 </div>
 
 ---
 
-## Gameplay Preview & Full Videos
+## Gameplay Preview
 
 <div align="center">
 
 <img src="docs/media/gameplay_preview.gif" alt="Live Gameplay Preview" width="100%" />
 
-<br/>
-
-[![Watch 48s Launch Trailer (1080p60 with Sound)](https://img.shields.io/badge/%E2%96%B6_Watch_48s_Launch_Trailer_(1080p60_with_Sound)-FF2E2E?style=for-the-badge)](https://github.com/Twarga/Street-Trash-III-Dezombifie-Clone-/releases/download/v1.0.0/Street_Trash_Dezombifier_Steam_Trailer_1080p60.mp4)
-[![Watch 3-Min Pure Gameplay Run (1080p60 with Sound)](https://img.shields.io/badge/%E2%96%B6_Watch_3--Min_Full_Gameplay_Run_(1080p60)-1DB954?style=for-the-badge)](https://github.com/Twarga/Street-Trash-III-Dezombifie-Clone-/releases/download/v1.0.0/Street_Trash_Dezombifier_3Min_Pure_Gameplay_1080p60.mp4)
-
-*(You can also open [`docs/media/trailer_1080p60.mp4`](docs/media/trailer_1080p60.mp4) directly inside this repo.)*
+*(Full 1080p60 trailer with sound is also in the repo at [`docs/media/trailer_1080p60.mp4`](docs/media/trailer_1080p60.mp4))*
 
 </div>
 
